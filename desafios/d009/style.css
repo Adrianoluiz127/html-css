@@ -1,0 +1,26 @@
+@charset "UTF-8";
+
+body {
+    background-color: rgb(39, 35, 35);
+}
+
+h1 {
+    position: relative;
+    left: 500px;
+    color: white;
+}
+
+h2 {
+    position: relative;
+    left: 473px;
+}
+
+iframe {
+    position: relative; 
+    left: 350px;
+}
+
+p {
+    position: relative;
+    left: 595px;
+} 

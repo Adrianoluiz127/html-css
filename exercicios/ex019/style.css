@@ -1,0 +1,53 @@
+@charset 'UTF-8';
+
+/*
+    em HTML é id = em CSS é #
+*/
+
+body {
+    background-image: linear-gradient(to right, #79a4e9, #65C2F7);
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+    color: rgb(55, 80, 55);
+}
+
+h2 {
+    color: rgb(106, 153, 106);
+}
+
+p {
+    font-family: 'Times New Roman', Times, serif;
+    text-align: justify;
+    font-weight: bold;
+}
+
+#principal {
+    text-align: justify;
+    text-align: center;
+    font-size: 2em;
+    color:white;
+    background-color:rgb(55, 80, 55);
+}
+
+#principal2 {
+    text-align: justify;
+    text-align: center;
+    font-size: 2em;
+    color:white;
+    background-color:rgb(55, 80, 55);
+}
+
+.basico {
+    color: rgb(27, 212, 98); 
+
+}
+
+.intermediario {
+    color: rgb(212, 200, 27);
+}
+
+.avancado {
+    color: rgb(212, 27, 27);
+}
