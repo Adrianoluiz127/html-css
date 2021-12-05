@@ -53,9 +53,9 @@ header a:hover, footer a:hover {
 }
 
 section {
-    font-family: var(--fonte03);
-    font-size: 5vw;
-    font-weight: bold;
+    font-family: var(--fonte01);
+    font-size: 3.2vw;
+    font-weight: normal;
     padding-left: 30px;
     padding-top: 10vh;
     padding-bottom: 10vh;
